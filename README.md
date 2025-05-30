@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 I'm **Mondoukpè Stella**, a passionate Fullstack Developer and Data Enthusiast from Benin 🇧🇯
 
