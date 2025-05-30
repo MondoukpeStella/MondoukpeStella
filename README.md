@@ -45,11 +45,4 @@ I'm **Mondoukpè Stella**, a passionate Fullstack Developer and Data Enthusiast 
 
 ---
 
-### 📊 GitHub Stats
-
-![Mondoukpe Stella's GitHub stats](https://github-readme-stats.vercel.app/api?username=MondoukpeStella&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MondoukpeStella&layout=compact&theme=radical)
-
----
-
 ✨ *"Code with intention. Automate with precision. Lead with vision."* ✨
