@@ -28,7 +28,6 @@ I'm **Mondoukpè Stella**, a passionate Fullstack Developer and Data Enthusiast 
   - Email: **stella.aguemon@epitech.eu**  
   - LinkedIn: [linkedin.com/in/stella-aguemon](https://linkedin.com/in/stella-aguemon)
   - Portfolio: [Web Portfolio](https://stella-aguemon.vercel.app)
-  - Odoo Portfolio : [Odoo Portfolio](https://stella-aguemon.odoo.com)
 
 - 😄 Pronouns: she/her 👩🏾  
 - ⚡ Fun fact: I recharge my batteries with cheesy romance novels 💞📚
